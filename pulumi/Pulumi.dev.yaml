@@ -1,0 +1,7 @@
+config:
+  azure-native:clientId: 2c4203d2-e2de-4a11-9d62-d6914a463550
+  azure-native:clientSecret:
+    secure: AAABAGJAXdbX7JA8kVP2O4i4maOHeSTnNNREBf5s2VBmjfI4QNAbZbIWS4aEK5gW7PIIGZq+IHA4PV1SqmvTP+3LpiztXyPP
+  azure-native:location: eastus
+  azure-native:subscriptionId: d89b4705-4d5f-4806-9c46-20f56980cd25
+  azure-native:tenantId: 62734cde-549c-421d-8475-d2b9a037b254
