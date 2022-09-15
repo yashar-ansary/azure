@@ -1,0 +1,6 @@
+C: interview
+B:    dump.rtf
+B:    sample-blob.txt
+B:    sample1.rtf
+C: interview2
+C: myblobscontainer
